@@ -1,10 +1,11 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 5193192 */
-  /* Color fonts */
-  src: 
-       url('//at.alicdn.com/t/c/font_5193192_pg9zmjh037l.woff2?t=1781016339301') format('woff2'),
-       url('//at.alicdn.com/t/c/font_5193192_pg9zmjh037l.woff?t=1781016339301') format('woff'),
-       url('//at.alicdn.com/t/c/font_5193192_pg9zmjh037l.ttf?t=1781016339301') format('truetype');
+  font-family: "iconfont";
+  src: url('iconfont.eot?t=5b2497eb5c56391e4dd19edbb0f101d3'); /* IE9 */
+  src: url('iconfont.eot?t=5b2497eb5c56391e4dd19edbb0f101d3#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=5b2497eb5c56391e4dd19edbb0f101d3') format('woff2'),
+  url('iconfont.woff?t=5b2497eb5c56391e4dd19edbb0f101d3') format('woff'), /* chromeã€firefox */
+  url('iconfont.ttf?t=5b2497eb5c56391e4dd19edbb0f101d3') format('truetype'), /* chromeã€firefoxã€operaã€Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=5b2497eb5c56391e4dd19edbb0f101d3#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .iconfont {
